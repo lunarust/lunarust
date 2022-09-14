@@ -1,6 +1,5 @@
 - (^０^)ノ Hi, I’m @lunarust
-- 🌱 I’m currently learning rust
-- 📫 How to reach me 
+- 🌱 Very curious about Rust
 
 <!---
 lunarust/lunarust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
